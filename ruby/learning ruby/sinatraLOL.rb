@@ -2,8 +2,7 @@
 require 'sinatra'
 
 get '/' do
-    # print something in localhost:4567
-    'what\'s your name?'
+    "LoLo"
 end
 
 get '/hello/:name' do |n|
@@ -12,6 +11,7 @@ get '/hello/:name' do |n|
     "Hello #{n}!"
 end
 
-get '/isGay' do |n|
-
+get '/isGay' do 
+    "Bro You Are Gay!"
 end
+
