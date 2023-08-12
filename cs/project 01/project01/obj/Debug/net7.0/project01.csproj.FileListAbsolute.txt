@@ -1,4 +1,0 @@
-D:\codes\cs\project 01\project01\obj\Debug\net7.0\project01.GeneratedMSBuildEditorConfig.editorconfig
-D:\codes\cs\project 01\project01\obj\Debug\net7.0\project01.AssemblyInfoInputs.cache
-D:\codes\cs\project 01\project01\obj\Debug\net7.0\project01.AssemblyInfo.cs
-D:\codes\cs\project 01\project01\obj\Debug\net7.0\project01.csproj.CoreCompileInputs.cache
